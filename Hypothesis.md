@@ -1,4 +1,4 @@
-# Finalization IoT Idea:
+## Finalization IoT Idea:
 
 Hypothesis: We believe that through incentivizing membership registration through retrospected points collected with IoT devices that there will be an increase in membership acquisition. 
  
@@ -25,15 +25,24 @@ The purpose of this experiment is to demonstrate the collection of points before
 # Output / Data:
 
 ⁃	ID
+
 ⁃	Face
+
 ⁃	Environment
+
 ⁃	Events:
-⁃	Time
-⁃	Floor
-⁃	Duration
+
+ ⁃	Time
+
+ ⁃	Floor
+
+ ⁃	Duration
+
 ⁃	Points:
-⁃	Coffee 
-⁃	Cookies
+
+ ⁃	Coffee 
+
+ ⁃	Cookies
 
 # Next Steps:
 
