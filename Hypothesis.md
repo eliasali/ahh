@@ -1,13 +1,13 @@
-## Finalization IoT Idea:
+# Finalization IoT Idea:
 
 Hypothesis: We believe that through incentivizing membership registration through retrospected points collected with IoT devices that there will be an increase in membership acquisition. 
  
 
-# Coffee Area Analysis
+## Coffee Area Analysis
 
 The purpose of this experiment is to demonstrate the collection of points before the customer has signed up. This experiment also collects valuable information about the customer which can be used for personalized marketing, population distributions and further customer analytics.
 
-# Components: 
+## Components: 
 
 ⁃	Distributed Ledger
 
@@ -22,12 +22,12 @@ The purpose of this experiment is to demonstrate the collection of points before
 ⁃	Put dishes in washer
 
  
-# Output / Data:
+## Output / Data:
 
 ID, Face, Environment, Events( Time, Floor, Duration), Points (Coffee, Cookies, Pretzels)
 
 
-# Next Steps:
+## Next Steps:
 
 ⁃	Experiment Design
 
@@ -39,7 +39,7 @@ ID, Face, Environment, Events( Time, Floor, Duration), Points (Coffee, Cookies, 
 
    ⁃	Look at Hypothesis Driven Model 
 
-# Experiment Design:
+## Experiment Design:
 
 1.	Facial Recognition on smaller devices
 
@@ -57,7 +57,7 @@ ID, Face, Environment, Events( Time, Floor, Duration), Points (Coffee, Cookies, 
   
  2.	 
 
-# Things to think of:
+## Things to think of:
 
 ⁃	Recording people’s coffee choice? Depends on the viewpoint of the camera and if the camera can pick up the text on the screen. In the scenario that the person is blocking the choice, there has to be some guessing system in place. Create a recommendation system from this in the future?
 
