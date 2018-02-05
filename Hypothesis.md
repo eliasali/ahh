@@ -15,11 +15,11 @@ The purpose of this experiment is to demonstrate the collection of points before
 
 ⁃	Action Detection
 
-⁃	Grab Coffee
+   ⁃	Grab Coffee
 
-⁃	Grab Cookies
+   ⁃	Grab Cookies
 
-⁃	Put dishes in washer
+   ⁃	Put dishes in washer
 
  
 ## Output / Data:
