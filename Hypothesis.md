@@ -40,17 +40,21 @@ The purpose of this experiment is to demonstrate the collection of points before
 
 ⁃	Points:
 
- ⁃	Coffee 
-
- ⁃	Cookies
+   ⁃	Coffee 
+   
+   ⁃	Cookies
 
 # Next Steps:
 
 ⁃	Experiment Design
-⁃	Baseline?
-⁃	Good vs. Bad Experiment 
-⁃	Why you are doing this experiment? 
-⁃	Look at Hypothesis Driven Model 
+
+   ⁃	Baseline?
+
+   ⁃	Good vs. Bad Experiment 
+
+   ⁃	Why you are doing this experiment? 
+
+   ⁃	Look at Hypothesis Driven Model 
 
 # Experiment Design:
 
