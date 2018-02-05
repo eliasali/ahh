@@ -31,7 +31,7 @@ ID, Face, Environment, Events( Time, Floor, Duration), Points (Coffee, Cookies, 
 
 ⁃	Experiment Design
 
-   ⁃	Baseline?
+    ⁃	Baseline?
 
    ⁃	Good vs. Bad Experiment 
 
