@@ -40,13 +40,13 @@ Next Steps:
 Experiment Design:
 
 1.	Facial Recognition on smaller devices
-⁃	TX2 is too expensive
-⁃	Raspberry Pi with computing sticks 
-⁃	Raspberry Pi with SqueezeNet
-⁃	Raspberry Pi with SqueezeNet and computing sticks
-⁃	TX2 with computing sticks 
-⁃	Reason for the experiment is to find the most effective method in order to do facial recognition 
-2.	 
+  ⁃	TX2 is too expensive
+  ⁃	Raspberry Pi with computing sticks 
+  ⁃	Raspberry Pi with SqueezeNet
+  ⁃	Raspberry Pi with SqueezeNet and computing sticks
+  ⁃	TX2 with computing sticks 
+  ⁃	Reason for the experiment is to find the most effective method in order to do facial recognition 
+ 2.	 
 
 Things to think of:
 
