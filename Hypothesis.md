@@ -10,6 +10,7 @@ The purpose of this experiment is to demonstrate the collection of points before
 Components: 
 
 ⁃	Distributed Ledger
+
 ⁃	Face Detection / Capture
 ⁃	Action Detection
 ⁃	Grab Coffee
