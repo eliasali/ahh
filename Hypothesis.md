@@ -1,4 +1,4 @@
-# Finalization IoT Idea:
+Finalization IoT Idea:
 
 Hypothesis: We believe that through incentivizing membership registration through retrospected points collected with IoT devices that there will be an increase in membership acquisition. 
  
