@@ -13,13 +13,7 @@ The purpose of this experiment is to demonstrate the collection of points before
 
 ⁃	Face Detection / Capture
 
-⁃	Action Detection
-
-   ⁃	Grab Coffee
-
-   ⁃	Grab Cookies
-
-   ⁃	Put dishes in washer
+⁃	Action Detection: Grab coffee, grab cookie, put dishes in the washer
 
  
 ## Output / Data:
