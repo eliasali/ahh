@@ -9,12 +9,12 @@ The purpose of this experiment is to demonstrate the collection of points before
 
 Components: 
 
-	⁃	Distributed Ledger
-	⁃	Face Detection / Capture
-	⁃	Action Detection
-	⁃	Grab Coffee
-	⁃	Grab Cookies
-	⁃	Put dishes in washer
+#	⁃	Distributed Ledger
+#	⁃	Face Detection / Capture
+#	⁃	Action Detection
+#	⁃	Grab Coffee
+#	⁃	Grab Cookies
+#	⁃	Put dishes in washer
 
 Output / Data:
 
